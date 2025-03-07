@@ -8,7 +8,6 @@ Simulador tipo playground del tema campo electrico (trabajo escolar)
 * **Calderon Castillo Leonardo** - [Vakyro](https://github.com/Vakyro)
 * **Machuca Quepons Jose Angel** -
 * **Cantua Nunez Rene** - 
-* **Castañeda Rodriguez Andrea**
 
 
 ## License
